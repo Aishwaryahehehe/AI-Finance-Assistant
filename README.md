@@ -2,6 +2,23 @@
 
 Initial full-stack setup for an AI-powered personal finance management web app.
 
+##  Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Budget Tracker
+![Budget Tracker](screenshots/BudgetTracker.png)
+
+###  AI Chatbot
+![AI Chatbot](screenshots/chatbot.png)
+
+###  Financial Analysis
+![Financial Analysis](screenshots/financialanalysis.png)
+
+###  Goal Tracker
+![Goal Tracker](screenshots/goalTracker.png)
+
 ## Tech Stack
 
 - Frontend: React + Vite + Tailwind CSS
