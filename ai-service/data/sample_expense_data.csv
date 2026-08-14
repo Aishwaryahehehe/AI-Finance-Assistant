@@ -1,0 +1,41 @@
+text,category
+uber ride to office,Transport
+taxi fare downtown,Transport
+bus pass recharge,Transport
+train ticket monthly,Transport
+fuel for car,Transport
+grocery shopping at walmart,Food
+weekly groceries and vegetables,Food
+dinner at restaurant,Food
+lunch with clients,Food
+coffee and snacks,Food
+electricity bill payment,Utilities
+internet broadband bill,Utilities
+water bill for apartment,Utilities
+mobile phone recharge,Utilities
+gas cylinder refill,Utilities
+movie tickets weekend,Entertainment
+netflix monthly subscription,Entertainment
+spotify premium renewal,Entertainment
+concert tickets,Entertainment
+video game purchase,Entertainment
+rent for apartment,Housing
+home maintenance repair,Housing
+furniture purchase,Housing
+mortgage monthly payment,Housing
+property tax payment,Housing
+doctor consultation fee,Healthcare
+medicine from pharmacy,Healthcare
+dental treatment bill,Healthcare
+health insurance premium,Healthcare
+lab test charges,Healthcare
+salary credited,Income
+freelance project payment,Income
+bonus from company,Income
+interest income from bank,Income
+dividend payment,Income
+online course purchase,Education
+college tuition fee,Education
+school books and stationery,Education
+certification exam fee,Education
+workshop registration,Education

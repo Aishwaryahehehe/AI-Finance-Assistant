@@ -1,0 +1,12 @@
+HTTP/1.1 500 Internal Server Error
+X-Powered-By: Express
+Access-Control-Allow-Origin: http://localhost:5173
+Vary: Origin
+Content-Type: application/json; charset=utf-8
+Content-Length: 113
+ETag: W/"71-28ql1tKAQ7NYjjc0sNbsbJW/Hyk"
+Date: Mon, 20 Apr 2026 09:40:56 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"message":"Registration failed.","error":"Cannot destructure property 'name' of 'req.body' as it is undefined."}

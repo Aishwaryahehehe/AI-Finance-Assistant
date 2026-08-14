@@ -1,0 +1,4 @@
+{
+    "kiroAgent.configureMCP": "Disabled",
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
